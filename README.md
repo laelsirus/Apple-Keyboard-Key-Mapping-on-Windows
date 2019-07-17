@@ -9,6 +9,7 @@ Registry for Apple Keyboard Key Mapping on Windows
 - Shift + Space = Language switching
 - Control + Space = Chinese character (for Korean)
 
+#
 ## Multimedia Key Mapping with AutoHotkey
 
 - Control + F7 = Media Previous
