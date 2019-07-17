@@ -8,7 +8,6 @@ Registry for Apple Keyboard Key Mapping on Windows
 - Right Option = Chinese character (for Korean)
 - Shift + Space = Language switching
 - Control + Space = Chinese character (for Korean)
-
 #
 ## Multimedia Key Mapping with AutoHotkey
 
